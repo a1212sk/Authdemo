@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166555858321",
+    "firebase_url": "https://auth-b11a3.firebaseio.com",
+    "project_id": "auth-b11a3",
+    "storage_bucket": "auth-b11a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166555858321:android:ef2d309791959041441630",
+        "android_client_info": {
+          "package_name": "alexander.skornyakov.authdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166555858321-4dq0aojmttq4vpbe2f8l7mcc1mc0cfoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-0do9IqitXhbj-YrG8EHcDpMHLrFdRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166555858321-4dq0aojmttq4vpbe2f8l7mcc1mc0cfoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
